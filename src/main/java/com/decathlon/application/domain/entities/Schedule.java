@@ -12,4 +12,5 @@ import java.util.List;
 public class Schedule {
     private DayOfWeek dayOfWeek;
     private List<Session> sessions;
+
 }
